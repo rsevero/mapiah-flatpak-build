@@ -1,4 +1,4 @@
-FROM rsevero847/mapiah-flutter-build:20.04
+FROM rsevero847/flutter-build:20.04
 
 USER root
 

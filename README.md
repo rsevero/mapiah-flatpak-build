@@ -22,7 +22,7 @@ docker run -it --entrypoint /bin/bash rsevero847/mapiah-flatpak-build
 
 4. Clone Mapiah source code inside /opt/devel:
 ```
-cd /opt/devel; git clone --depth 1 -b main https://github.com/rsevero/mapiah.git
+cd /opt/devel; git clone --depth 1 -b main https://github.com/rsevero/mapiah.git; git clone --depth 1 -b main https://github.com/rsevero/mapiah-flatpak-build.git
 ```
 
 5. Update version info at:
